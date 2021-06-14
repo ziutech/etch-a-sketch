@@ -1,0 +1,14 @@
+.sketch{
+    display: grid;
+    width: 700px;
+    height: 700px;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.cell{
+    border: 1px solid black;
+}
