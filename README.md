@@ -1,6 +1,7 @@
 # etch-a-sketch
 
 What is this? - browser sketchpad (exercise from theodinproject.com)
+
 What have I learned?
 - querySelectors
 - eventListener
